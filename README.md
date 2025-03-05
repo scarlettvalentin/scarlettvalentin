@@ -1,9 +1,10 @@
 # Hi there, my name is Scarlett! 👋
 
-# Data Scientist | Lifelong Learner | Multilingual | Social Butterfly 
+# Data Scientist | Lifelong Learner | Multilingual
 
 - 🌍 I'm based in North Carolina
 - ⚡ Background in Math Education and the Building Materials Industry
+- :butterfly: Social Butterfly 
 - ✉ Contact me at: scarlettmvalentin@gmail.com
 
 <!--
