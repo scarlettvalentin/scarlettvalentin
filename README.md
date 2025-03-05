@@ -1,8 +1,10 @@
 # Hi there, my name is Scarlett! 👋
 
-## I am a Data Scientist with a background in math education and the building materials industry
+# Data Scientist | Lifelong Learner | Multilingual | Social Butterfly 
 
-## Lifelong Learner, Multilingual, Social Butterfly 
+- 🌍 I'm based in North Carolina
+- ⚡ Background in Math Education and the Building Materials Industry
+- ✉ Contact me at: scarlettmvalentin@gmail.com
 
 <!--
 **scarlettvalentin/scarlettvalentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
