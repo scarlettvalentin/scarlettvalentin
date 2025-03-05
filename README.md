@@ -1,6 +1,6 @@
-## Hi there, my name is Scarlett! 👋
+# Hi there, my name is Scarlett! 👋
 
-# I am a Data Scientist with a background in math education and the building materials industry
+## I am a Data Scientist with a background in math education and the building materials industry
 
 ## Lifelong Learner, Multilingual, Social Butterfly 
 
