@@ -7,6 +7,9 @@
 - :butterfly: Social Butterfly 
 - ✉ Contact me at: scarlettmvalentin@gmail.com
 
+  Skills:
+  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png
+
 <!--
 **scarlettvalentin/scarlettvalentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
